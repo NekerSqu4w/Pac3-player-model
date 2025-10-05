@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/demonslayer/shinobu/shinobu_shaded"
-	"$translucent" 1
-	"$lightwarptexture" "models/demonslayer/shinobu/lightwarpshader"
-}
